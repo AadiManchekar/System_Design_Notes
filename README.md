@@ -1,3 +1,3 @@
 # System_Design_Notes
 
-test
+This repo contains short notes regarding system Design 
